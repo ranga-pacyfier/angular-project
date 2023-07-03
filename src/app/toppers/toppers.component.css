@@ -1,0 +1,13 @@
+/* CSS for the Toppers list */
+.toppers-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toppers-list li {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}

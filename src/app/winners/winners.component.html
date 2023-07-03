@@ -1,0 +1,18 @@
+<h2>Winners</h2>
+<div class="component-container">
+<!-- Winners table with custom style -->
+<table class="winners-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let winner of winners">
+      <td>{{ winner.name }}</td>
+      <td>{{ winner.score }}</td>
+    </tr>
+  </tbody>
+</table>
+</div>
