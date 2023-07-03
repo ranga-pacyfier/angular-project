@@ -1,0 +1,24 @@
+{
+  "users": {
+    "user1": {
+      "name": "John",
+      "age": 25,
+      "score": 80
+    },
+    "user2": {
+      "name": "Alice",
+      "age": 20,
+      "score": 90
+    },
+    "user3": {
+      "name": "Bob",
+      "age": 22,
+      "score": 70
+    },
+    "user4": {
+      "name": "Eve",
+      "age": 19,
+      "score": 95
+    }
+  }
+}
